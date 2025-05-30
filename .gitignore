@@ -1,0 +1,22 @@
+# macOS
+.DS_Store
+
+# Logs
+*.log
+
+# Environment variables
+.env
+
+# API Keys (if stored in files)
+*.key
+*api-keys*
+
+# Editor directories and files
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Temporary files
+*.tmp
+*~
